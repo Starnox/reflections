@@ -1,3 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
+	When i initialise a repository the .git folder is created which then allows me to create commits and have diffrent versions of the files through time
 
-When i initialise a repository the .git folder is created which then allows me to create commits and have diffrent versions of the files through time
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	It offers more control and flexibility over my project
